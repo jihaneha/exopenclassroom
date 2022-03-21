@@ -1,0 +1,63 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+/*-----------header----------*/
+header {
+  padding: 30px;
+  background-image: url(background_pattern.png);
+  border: 2px solid grey;
+}
+#div1 {
+}
+#img1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+h1 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin: 10px;
+  text-shadow: 2px 2px 2px grey;
+}
+p {
+  font-size: 1.2rem;
+  text-align: left;
+  line-height: 25px;
+  margin: 10px;
+}
+h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 12px;
+  padding: 10px;
+  border: 2px solid grey;
+  box-shadow: 2px 2px 2px 2px grey;
+}
+#img2 {
+  width: 200px;
+  height: 300px;
+  margin: 10px;
+}
+.icone {
+  width: 15px;
+  height: 15px;
+}
+body {
+  display: flex;
+}
+main {
+  padding: 10px;
+  background-color: pink;
+}
+.h3 {
+  background-image: url(background_pattern.png);
+}
+h4 {
+  margin: 8px;
+}
+h5 {
+  margin: 6px;
+}
